@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loadbalancer-test", "loadbalancer-test\loadbalancer-test.csproj", "{AAAC50D7-86ED-4565-A0F5-DA5C00AF43B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loadbalancer-test.Tests", "loadbalancer-test.Tests\loadbalancer-test.Tests.csproj", "{D2D4857C-E4DA-D453-2E3C-7D0BAA9642AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAAC50D7-86ED-4565-A0F5-DA5C00AF43B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAAC50D7-86ED-4565-A0F5-DA5C00AF43B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAAC50D7-86ED-4565-A0F5-DA5C00AF43B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAAC50D7-86ED-4565-A0F5-DA5C00AF43B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2D4857C-E4DA-D453-2E3C-7D0BAA9642AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2D4857C-E4DA-D453-2E3C-7D0BAA9642AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2D4857C-E4DA-D453-2E3C-7D0BAA9642AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2D4857C-E4DA-D453-2E3C-7D0BAA9642AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86405199-8F28-44D0-B2B2-5B548538FF33}
+	EndGlobalSection
+EndGlobal
